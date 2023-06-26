@@ -1,0 +1,33 @@
+<!--Deskripsi Aplikasi-->
+Aplikasi konverter mata uang yang dibuat menggunakan 
+HTML, CSS, PHP, dan JavaScript adalah sebuah aplikasi 
+yang memungkinkan pengguna untuk mengkonversi jumlah 
+mata uang dari satu mata uang ke mata uang lainnya. 
+Aplikasi ini memiliki fitur yang memungkinkan pengguna
+untuk memasukkan jumlah mata uang yang akan dikonversi,
+memilih mata uang asal dan mata uang tujuan, 
+dan kemudian menghitung jumlah mata uang yang dikonversi 
+berdasarkan nilai tukar yang ditentukan.
+<!--Deskripsi Aplikasi-->
+
+<!--Kekurangan Aplikasi-->
+- Ketergantungan pada koneksi internet: 
+Aplikasi ini mungkin membutuhkan koneksi internet untuk memperoleh 
+nilai tukar mata uang terkini. Tanpa koneksi internet, 
+aplikasi mungkin tidak dapat mengupdate nilai tukar yang diperlukan.
+- Ketepatan nilai tukar: 
+Nilai tukar yang digunakan dalam aplikasi ini 
+didasarkan pada nilai tukar tetap yang telah ditentukan dalam kode. 
+Namun, nilai tukar mata uang dapat berfluktuasi setiap saat di 
+pasar valuta asing. Oleh karena itu, nilai tukar yang digunakan dalam 
+aplikasi mungkin tidak selalu akurat atau terkini.
+- Keterbatasan mata uang: 
+Aplikasi ini hanya menyediakan beberapa mata uang 
+yang telah ditentukan dalam array nilai tukar. Jika ingin mengkonversi 
+mata uang yang tidak terdaftar, pengguna perlu menambahkan mata uang baru 
+secara manual ke dalam kode.
+- Tampilan dan pengalaman pengguna: 
+Tampilan dan antarmuka pengguna aplikasi 
+ini mungkin sederhana dan terbatas. Dalam hal desain dan pengalaman pengguna, 
+mungkin ada ruang untuk perbaikan atau peningkatan lebih lanjut.
+<!--Kekurangan Aplikasi-->
